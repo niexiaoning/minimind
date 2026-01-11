@@ -2,3 +2,6 @@ model/__pycache__
 out
 website/
 docs-minimind/
+dataset/
+.DS_Store
+MiniMind2/
